@@ -105,5 +105,13 @@ html {
     }
 
 
-
+#dikit img {
+  transition: transform 0.3s ease;
+}
+#dikit img:hover {
+  transform: scale(1.1);
+}
+.promo-banner{
+  background: linear-gradient(135deg, #53c791, #29681d);
+}
 
